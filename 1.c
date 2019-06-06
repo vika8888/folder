@@ -1,4 +1,5 @@
 #include <stdio.h>
+//comm
 int main()
 {
 	int a,b,R,S;
