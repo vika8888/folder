@@ -1,10 +1,12 @@
 #include <stdio.h>
 int main()
 {
-	int a,b;
-	printf("a=");
+	int a,b,S;
+	printf("a= ");
 	scanf("%d", &a);
-	printf("b=");
+	printf("b= ");
 	scanf("%d", &b);
+	S = a + b;
+	printf("S=%d", S);
 	return 0;
 }
